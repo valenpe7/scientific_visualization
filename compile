@@ -1,0 +1,9 @@
+#!/bin/bash
+gcc --version
+echo "minimum required version of GNU gcc: 4.8.2"
+cd ./src
+echo -e "visualization: compilation started"
+make all
+echo -e "visualization: complitaion completed"
+make clean
+mv visualization ../visualization

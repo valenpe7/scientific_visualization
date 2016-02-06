@@ -1,0 +1,17 @@
+<?xml version= "1.0" encoding= "UTF-8"?> 
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay>
+<color>66ffffff</color>
+<name>pressure_colormap</name>
+<Icon>
+<href>pressure_colormap.png</href>
+</Icon>
+<LatLonBox>
+<east>-4.412</east>
+<west>7.64033</west>
+<south>42.7372</south>
+<north>50.57</north>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay>
+</kml>
