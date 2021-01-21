@@ -6,11 +6,24 @@ date: 19/01/2016
 
 required version of GNU gcc compiler: 4.8.2
 
-**directory structure:**  
+**Directory structure:**  
 ./bin ... compiled binary  
 ./dat ... original and processed input data  
 ./doc ... project documentation  
 ./out ... output data  
 ./src ... source code  
 
-read more at: https://petrvalenta.eu/posts/visualizing_weather_data_in_google_earth/
+**Test results:** 
+<div>
+<span>
+<figure>
+  <img src="https://github.com/valenpe7/scientific_visualization/blob/master/doc/img/temperature.png" width="400" height="300">
+  <img src="https://github.com/valenpe7/scientific_visualization/blob/master/doc/img/wind.png" width="400" height="300">
+  <figcaption>
+  <br> &nbsp; &nbsp; Colormaps and isocontours of temperature (left) and wind velocity (right) visualized in Google Earth.
+  </figcaption>
+</figure>
+</div>
+</span>
+
+<br> Read more at: https://petrvalenta.eu/posts/visualizing_weather_data_in_google_earth/
