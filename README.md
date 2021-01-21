@@ -20,7 +20,7 @@ required version of GNU gcc compiler: 4.8.2
   <img src="https://github.com/valenpe7/scientific_visualization/blob/master/doc/img/temperature.png" width="400" height="300">
   <img src="https://github.com/valenpe7/scientific_visualization/blob/master/doc/img/wind.png" width="400" height="300">
   <figcaption>
-  <br> &nbsp; &nbsp; Colormaps and isocontours of temperature (left) and wind velocity (right) visualized in Google Earth.
+  <br> Colormaps and isocontours of temperature (left) and wind velocity (right) visualized in Google Earth.
   </figcaption>
 </figure>
 </div>
