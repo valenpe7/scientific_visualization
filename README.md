@@ -23,7 +23,7 @@ required version of GNU gcc compiler: 4.8.2
   <br> Colormaps and isocontours of temperature (left) and wind velocity (right) visualized in Google Earth.
   </figcaption>
 </figure>
-</div>
 </span>
+</div>
 
 <br> Read more at: https://petrvalenta.eu/posts/visualizing_weather_data_in_google_earth/
